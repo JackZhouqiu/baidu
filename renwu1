@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>徐老师辛苦啦
+		</title>
+		<meta charset="UTF-8"/>
+			<script src="test.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<h1>网站一级标题</h1>
+		<ul>
+			<li><a href="index.html">导航链接1</a></li>
+			<li><a href="index.html">导航链接2</a></li>
+			<li><a href="index.html">导航链接3</a></li>
+			<li><a href="index.html">导航链接4</a></li>
+		</ul>
+		<h2>文章一级标题</h2>
+		<h3>文章二级标题</h3>
+		<span>文章作者 文章发表时间</span>
+		<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈<br />换行</p>
+		<p>dhkdshjfahsdkhgfhasuihasdjhfjaksdhfjkhasdkhfuhuewhnfjkasdkjfh换行</p>
+		<p>dfhakjsdhfhiuhfasdljkhf<a href="http://ife.baidu.com">这里有个特务到http://ife.baidu.com</a>dshkjahasdhfuihausdjasdfkgasuhf<b>好粗好粗</b>dhasdhguhauhguhdhfajsdhfka</p>
+		<img src="img/HBuilder.png" />
+		<p>dhkdshjfahsdkhgfhasuihasdjhfjaksdhfjkhasdkhfuhuewhnfjkasdkjfh换行</p>
+		<p>dfhakjsdhfhiuhfasdljkhf<a href="http://ife.baidu.com" target="_blank">这里有个跳转特务</a>dshkjahasdhfuihausdjasdfkgasuhf<b>好粗好粗</b>dhasdhguhauhguhdhfajsdhfka</p>
+		<h2>另一篇文章的一级标题</h2>
+		<h3>文章二级标题</h3>
+				<span>文章作者 文章发表时间</span>
+		<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈<br />换行</p>
+		<p>dhkdshjfahsdkhgfhasuihasdjhfjaksdhfjkhasdkhfuhuewhnfjkasdkjfh换行</p>
+		<p>dfhakjsdhfhiuhfasdljkhf<a href="http://ife.baidu.com">这里有个特务到http://ife.baidu.com</a>dshkjahasdhfuihausdjasdfkgasuhf<b>好粗好粗</b>dhasdhguhauhguhdhfajsdhfka</p>
+		<img src="img/HBuilder.png" />
+		<ul>
+			<li>列表项目1</li>
+			<li>列表项目2</li>
+			<li>列表项目3</li>
+		</ul>
+		<span>图片</span>
+		<p>好看的图片</p><img src="img/HBuilder.png" />
+		<p>好看的图片</p><img src="img/HBuilder.png" />
+		<p>好看的图片</p><img src="img/HBuilder.png" />
+		<h2>最后的文章一级</h2>
+		<h3>最后的文章二级</h3>
+		<span>文章作者 文章发表时间</span>
+		<ol>
+			<li>老1</li>
+			<li>老2</li>
+			<li>老3</li>
+		</ol>
+		<p>表格表格</p>
+		<table border="1">
+			<tr>
+			<th>情况</th>
+			<th>耳鼻</th>
+			<th>而获</th>
+			</tr>
+			<tr>
+			<td>第一年</td>
+			<td>2</td>
+			<td><a href="index.html">嘿嘿</a></td>
+			</tr><tr>
+			<td>第二年</td>
+			<td>3</td>
+			<td><a href="index.html">哈哈</a></td>
+			</tr>
+			<tr>
+			<td>两年</td>
+			<td colspan="2" align="center">2</td>
+			</tr>
+		</table>
+		<h2>最后的标题</h2>
+		<h3>最后的副标题</h3>
+		<form>
+			请输入邮箱地址：<input type="email" placeholder="请输入邮箱地址" /><br />
+			请输入密码：<input type="password" /> 请再次输入密码：<input type="password" /><br />
+			密码请为6-16位英文或数字!<br />
+			性别：<input type="radio" name="sex" value="male" />男<input type="radio" name="sex" value="female" />女
+			城市：<select name="city">
+				<option value="beijin">北京</option>
+				<option value="shanghai">上海</option>
+				<option value="shaoxing">绍兴</option>
+			</select>
+			爱好:<input type="checkbox" name="interest" value="basketball"/>篮球
+			<input type="checkbox" name="interest" value="football" />足球
+			自我评价:<textarea>随便夸夸自己好了</textarea>
+			<input type="submit" value="提交" />
+			
+			
+		</form>
+	</body>
+</html>
+
+
+
+
+
+
+
+
